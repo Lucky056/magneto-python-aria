@@ -76,7 +76,7 @@
         "required": false
       }, 
       "STOP_DUPLICATE_MIRROR" : {
-        "description": "(Optional field) (Leave empty if unsure) if this field is set to True , bot will check file in drive, if it is present in drive, downloading will ne stopped. (Note - File will be checked using filename, not using filehash, so this feature is not perfect yet)"
+        "description": "(Optional field) (Leave empty if unsure) if this field is set to True , bot will check file in drive, if it is present in drive, downloading will ne stopped. (Note - File will be checked using filename, not using filehash, so this feature is not perfect yet)",
         "required": false
       }, 
       "BLOCK_MEGA_LINKS" : {
