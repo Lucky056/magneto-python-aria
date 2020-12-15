@@ -90,8 +90,7 @@
       "MAX_CONCURRENT_DOWNLOADS" : {
          "description": "You can limit maximum concurrent downloads by changing the value of MAX_CONCURRENT_DOWNLOADS in aria.sh. By default, it's set to 4", 
          "required" : false
-      }
-    }, 
+     }, 
   "addons": [
   {
      "plan": "heroku-postgresql",
